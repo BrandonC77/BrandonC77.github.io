@@ -16,3 +16,8 @@ h1{
 a:hover{
     color: darkcyan;
 }
+
+img{
+    max-width:300px;
+    max-height:300px;
+}
