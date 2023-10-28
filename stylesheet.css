@@ -1,0 +1,18 @@
+h1{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+/*css selector and id*/
+#mainTitle{ 
+    font-size:xx-large;
+}
+
+/*class*/
+.bigAndColorful{
+    font-weight:900;
+    color:goldenrod
+}
+
+a:hover{
+    color: darkcyan;
+}
